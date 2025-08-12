@@ -5,7 +5,7 @@ let songs;
 let currfolder;
 const albumFolders = ['cs', 'ncs', 'Old Bollywood', 'personal fav'];
 
-const repoName = 'Ramshu Ka Spotify';
+const repoName = 'RamshuKaSpotify';
 const repoPath = '/' + encodeURIComponent(repoName); // '/Ramshu%20Ka%20Spotify'
 
 function secondsToMinutesSeconds(seconds) {
