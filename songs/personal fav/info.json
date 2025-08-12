@@ -1,5 +1,12 @@
 {
   "title": "Meri Playlist 😊",
-  "description": "Random kaam krte hue sunne wale gaane"
+  "description": "Random kaam krte hue sunne wale gaane",
+  "songs": [
+    "Free.mp3",
+    "Hona Tha Pyar.mp3",
+    "Jhol.mp3",
+    "Piya O Re Piya.mp3",
+    "Your Idol.mp3"
+  ]
 
 }
